@@ -19,6 +19,6 @@ PURPOSE:
     Arithmetic operators
     Output formating(print())
     
-  It is a beginner-friendly program used to understand the fundamentals pf python programming and decision-making logic. 
+  It is a beginner-friendly program used to understand the fundamentals of python programming and decision-making logic. 
   
   
